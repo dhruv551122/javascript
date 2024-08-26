@@ -13,4 +13,5 @@
 
 // object
 
-console.log(typeof dhruv);
+console.log(typeof undefined); //undefined
+console.log(typeof null); //object
